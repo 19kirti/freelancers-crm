@@ -1,7 +1,7 @@
 
 # 📘 Freelancer CRM
 
-A modern, full-stack CRM system for freelancers to manage clients, tasks, and invoices efficiently. Built using:
+A modern, full-stack CRM system based on CRUD, for freelancers to manage clients, tasks, and invoices efficiently. Built using:
 
 - 🧠 MongoDB, Express, React (Vite), Node.js
 - 🎨 Tailwind CSS v4
