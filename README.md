@@ -1,10 +1,10 @@
 
 # 📘 Freelancer CRM
 
-A modern, full-stack CRM (Customer Relationship Management) system for freelancers to manage clients, tasks, and invoices efficiently. Built using:
+A modern, full-stack CRM system for freelancers to manage clients, tasks, and invoices efficiently. Built using:
 
 - 🧠 MongoDB, Express, React (Vite), Node.js
-- 🎨 Tailwind CSS v4 (with dark UI)
+- 🎨 Tailwind CSS v4
 - ⚙️ REST API (MVC Architecture)
 - 📦 Component-based frontend
 - 🚀 Deploy-ready and scalable
@@ -25,7 +25,7 @@ freelancer-crm/
 
 ## 🚀 Features
 
-- ✅ User-friendly dark UI
+- ✅ User-friendly UI
 - ✅ Client management
 - ✅ Task tracking
 - ✅ Invoice management
@@ -41,7 +41,6 @@ freelancer-crm/
 - React (Vite)
 - React Router
 - Tailwind CSS v4
-- Flowbite UI (Optional)
 
 ### Backend
 - Node.js
@@ -105,13 +104,6 @@ npm run dev
 
 ---
 
-## 📷 UI Preview
-
-> Insert screenshots or link to a demo here  
-> `![Dashboard Screenshot](./assets/dashboard.png)`
-
----
-
 ## 🧠 Folder Overview
 
 ### server/
@@ -122,7 +114,7 @@ npm run dev
 
 ### client/
 - `pages/`: Dashboard, Invoices, Tasks, Clients
-- `components/`: Header, Cards, Forms, etc.
+- `components/`: Navbar, Sidebar
 - `App.jsx`: Main routing
 - `tailwind.config.js`: Tailwind setup
 
@@ -135,7 +127,7 @@ npm run dev
 
 ---
 
-## 🌐 Deployment (optional)
+## 🌐 Deployment
 
 You can deploy using:
 
@@ -147,4 +139,4 @@ You can deploy using:
 
 ## 🙌 Credits
 
-Made with 💻 by [Your Name]
+Made by Kirti Aggarwal
